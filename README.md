@@ -1,7 +1,7 @@
 Integrantes:
-Gustavo Silvério
-Breno Cardozo
-Guilherme de Oliveira Santos
-Ryan Oliveira
-Karine Marques
-Beatriz Perez
+- Gustavo Silvério
+- Breno Cardozo
+- Guilherme de Oliveira Santos
+- Ryan Oliveira
+- Karine Marques
+- Beatriz Perez
